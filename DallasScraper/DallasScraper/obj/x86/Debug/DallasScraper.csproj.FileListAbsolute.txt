@@ -1,0 +1,14 @@
+C:\Users\Bacon21\SVN WorkSpace\Contract\DallasScraper\trunk\DallasScraper\DallasScraper\bin\Debug\DallasScraper.exe
+C:\Users\Bacon21\SVN WorkSpace\Contract\DallasScraper\trunk\DallasScraper\DallasScraper\bin\Debug\DallasScraper.pdb
+C:\Users\Bacon21\SVN WorkSpace\Contract\DallasScraper\trunk\DallasScraper\DallasScraper\obj\x86\Debug\DallasScraper.FormMain.resources
+C:\Users\Bacon21\SVN WorkSpace\Contract\DallasScraper\trunk\DallasScraper\DallasScraper\obj\x86\Debug\DallasScraper.Properties.Resources.resources
+C:\Users\Bacon21\SVN WorkSpace\Contract\DallasScraper\trunk\DallasScraper\DallasScraper\obj\x86\Debug\DallasScraper.csproj.GenerateResource.Cache
+C:\Users\Bacon21\SVN WorkSpace\Contract\DallasScraper\trunk\DallasScraper\DallasScraper\obj\x86\Debug\DallasScraper.exe
+C:\Users\Bacon21\SVN WorkSpace\Contract\DallasScraper\trunk\DallasScraper\DallasScraper\obj\x86\Debug\DallasScraper.pdb
+D:\User\Bacon21\SVN WorkSpace\Contract\DallasScraper\trunk\DallasScraper\DallasScraper\obj\x86\Debug\DallasScraper.exe
+D:\User\Bacon21\SVN WorkSpace\Contract\DallasScraper\trunk\DallasScraper\DallasScraper\obj\x86\Debug\DallasScraper.pdb
+D:\User\Bacon21\SVN WorkSpace\Contract\DallasScraper\trunk\DallasScraper\DallasScraper\bin\Debug\DallasScraper.exe
+D:\User\Bacon21\SVN WorkSpace\Contract\DallasScraper\trunk\DallasScraper\DallasScraper\bin\Debug\DallasScraper.pdb
+D:\User\Bacon21\SVN WorkSpace\Contract\DallasScraper\trunk\DallasScraper\DallasScraper\obj\x86\Debug\DallasScraper.FormMain.resources
+D:\User\Bacon21\SVN WorkSpace\Contract\DallasScraper\trunk\DallasScraper\DallasScraper\obj\x86\Debug\DallasScraper.Properties.Resources.resources
+D:\User\Bacon21\SVN WorkSpace\Contract\DallasScraper\trunk\DallasScraper\DallasScraper\obj\x86\Debug\DallasScraper.csproj.GenerateResource.Cache
